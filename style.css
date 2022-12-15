@@ -75,3 +75,17 @@
     border-bottom: 1px solid red;
 }
 
+/* ---- */
+
+.box-1 { 
+    width: 500px;
+    height: 500px;
+    background-image: url(./images/bmw.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.radio-1{
+    width: 300px;
+}
